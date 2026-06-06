@@ -1,14 +1,8 @@
 # 弦外之音 · 巡演排期系统
 
+![CI Status](https://github.com/your-org/your-repo/actions/workflows/ci.yml/badge.svg)
+
 独立乐队「弦外之音」巡演计划管理系统，告别Excel排期，一眼看清每城每场的时间轴。
-
----
-
-## 🛡️ CI/CD 质量门禁
-
-| 流水线 | 状态 |
-|--------|------|
-| CI Build & Test | ![CI](https://github.com/your-org/your-repo/actions/workflows/ci.yml/badge.svg) |
 
 ---
 
