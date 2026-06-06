@@ -1,6 +1,6 @@
 # 弦外之音 · 巡演排期系统
 
-![CI Status](https://github.com/your-org/your-repo/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/your-org/your-repo/actions/workflows/ci.yml/badge.svg)
 
 独立乐队「弦外之音」巡演计划管理系统，告别Excel排期，一眼看清每城每场的时间轴。
 

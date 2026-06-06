@@ -296,7 +296,7 @@ function getShowColor(show: Show): string {
 
           <div class="relative">
             <div
-              v-for="(city, cityIdx) in store.cities"
+              v-for="city in store.cities"
               :key="city"
               class="flex border-b border-gray-100"
               :style="{ height: `${ROW_HEIGHT}px` }"
