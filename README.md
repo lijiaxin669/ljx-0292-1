@@ -4,6 +4,14 @@
 
 ---
 
+## 🛡️ CI/CD 质量门禁
+
+| 流水线 | 状态 |
+|--------|------|
+| CI Build & Test | ![CI](https://github.com/your-org/your-repo/actions/workflows/ci.yml/badge.svg) |
+
+---
+
 ## ✨ 核心功能
 
 ### 📅 时间轴甘特图
